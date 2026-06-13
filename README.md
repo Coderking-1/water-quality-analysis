@@ -25,3 +25,7 @@ This project analyzes water quality data to identify trends and potential risks 
 
 ## Findings
 Analysis showed variations in water quality across different sampling locations, highlighting areas requiring further monitoring.
+Location,pH,Turbidity,DO
+River A,7.2,3.1,8.5
+River B,6.8,5.2,7.9
+River C,7.5,2.8,9.1
